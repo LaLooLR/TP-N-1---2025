@@ -4,35 +4,102 @@ body {
     color:rgb(184, 11, 11) ;
     }
 
-    .titulo {
-        margin-left: 3.4%;
-    }
+.titulo {
+    margin-left: 3.4%;
+}
 
-    .div1 {
+.imagen {
+    width: 250px; 
+    height: 250px;
+    border-radius: 25px;
+    border: rgba(111, 110, 114, 0.61) 5px solid;
+    margin-left: 3%;
+    margin-top: 2%;
+    }   
+
+.div1 {
     
-        color: rgb(175, 230, 230);
-        position: relative;
-        float: left;
-        width: 25%;
-        overflow: hidden;
-        font-size: larger;
-        margin-left: 0.5%;
+    color: rgb(175, 230, 230);
+    position: relative;
+    float: left;
+    width: 25%;
+    overflow: hidden;
+    font-size: larger;
+    margin-left: 0.5%;
+
+}
+
+.perfil {
+    margin-top: 15%;
+    color: rgb(206, 201, 211);
+    border-bottom:solid 1px grey;
+    width:30%;
+    height:50px;
+}
+.p1 {
+    color: rgb(206, 201, 211);
+    border-bottom:solid 1px grey;
+    width:30%;
+    height:50px;
+
+}
+
+.p2 {
+    color: rgb(206, 201, 211);
+    margin-top: 25%;
+    border-bottom:solid 1px grey;
+    width:30%;
+    height:50px;
+
+}
+
+.div2 {
+    color: white;
+    margin-top: -15%;
+    margin-left: 40%;
+    margin-bottom: 20%;
     
-    }
 
-    .div2 {
-        color: white;
-        margin-top: -15%;
-        margin-left: 40%;
-        margin-bottom: 20%;
-        
-    }
+}
 
-    .imagen {
-        width: 250px; 
-        height: 250px;
-        border-radius: 25px;
-        border: rgba(111, 110, 114, 0.61) 5px solid;
-        margin-left: 3%;
-        margin-top: 2%;
-        }   
+.experiencia {
+    color: rgb(175, 230, 230);
+    padding-bottom: 2%;
+    padding-top: 10%;
+    border-bottom: solid 2px grey;
+    width: 70%;
+}
+.trabajo1 {
+    padding-bottom: 1%;
+}
+.trabajo2 {
+    border-top: solid 2px grey;
+    width: 70%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: solid 2px grey;
+}
+
+.redes {
+    color: rgb(206, 201, 211);
+    margin-top: 25%;
+    height:50px;
+}
+.educ1 {
+    font-size: larger;
+}
+.educ2 {
+    font-size: larger;
+    border-top: solid 2px grey;
+    width: 70%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: solid 2px grey;
+}
+.educ3 {
+    font-size: larger;
+    width: 70%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: solid 2px grey;
+}
