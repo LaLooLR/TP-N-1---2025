@@ -3,3 +3,24 @@ body {
     background-color: rgba(0, 0, 0, 0.877);
     color:rgb(184, 11, 11) ;
     }
+
+    .div1 {
+    
+        color: rgb(175, 230, 230);
+        position: relative;
+        float: left;
+        width: 25%;
+        overflow: hidden;
+        font-size: larger;
+        margin-left: 0.5%;
+    
+    }
+
+    .div2 {
+        color: white;
+        margin-top: -15%;
+        margin-left: 40%;
+        margin-bottom: 20%;
+        
+    
+    }
