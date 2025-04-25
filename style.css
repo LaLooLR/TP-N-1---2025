@@ -22,5 +22,13 @@ body {
         margin-left: 40%;
         margin-bottom: 20%;
         
-    
     }
+
+    .imagen {
+        width: 250px; 
+        height: 250px;
+        border-radius: 25px;
+        border: rgba(111, 110, 114, 0.61) 5px solid;
+        margin-left: 3%;
+        margin-top: 2%;
+        }   
